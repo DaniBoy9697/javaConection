@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 public class test1conect {
     public static void main (String[] args){
-        String dbURL = "jdbc:oracle:thin:@25.68.223.154:1521:ESIACOM";
+        String dbURL = "jdbc:oracle:thin:@25.13.83.206:1521:ESIACOM";
         String username = "ESIACOM";
         String password = "ESIACOM";
 
